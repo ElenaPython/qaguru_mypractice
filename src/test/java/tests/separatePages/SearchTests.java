@@ -1,3 +1,5 @@
+package tests.separatePages;
+
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
